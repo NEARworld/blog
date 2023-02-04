@@ -1,11 +1,17 @@
 import React from "react";
-import { Header } from "components";
+import { Header, Post } from "components";
+import { homeStyle } from "styles";
 
 const Home = () => {
+  const { div } = homeStyle;
   return (
-    <div className="text-gray-300">
+    <div className={div.container}>
       <Header />
-      <div className="p-2">Home</div>
+      <div className={div.postList}>
+        {Array.from({ length: 5 }).map((item) => (
+          <Post />
+        ))}
+      </div>
     </div>
   );
 };
