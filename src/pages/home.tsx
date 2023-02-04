@@ -1,13 +1,11 @@
 import React from "react";
-import { useLoaderData } from "react-router-dom";
-import { Header } from "routes/router";
+import { Header } from "components";
 
 const Home = () => {
-  const { main } = useLoaderData() as Header;
   return (
-    <div>
-      {main}
-      <div>Home</div>
+    <div className="text-gray-300">
+      <Header />
+      <div className="p-2">Home</div>
     </div>
   );
 };
