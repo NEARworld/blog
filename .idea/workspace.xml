@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f896af7-157a-4727-97d9-1dcd47f4f100" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/header.style.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/post.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/home.style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/post.style.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/headers/main.header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/router.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/router.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/header.style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header.style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675344570093</updated>
       <workItem from="1675344571253" duration="1354000" />
-      <workItem from="1675502569338" duration="2751000" />
+      <workItem from="1675502569338" duration="4090000" />
     </task>
     <servers />
   </component>
@@ -72,7 +70,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
